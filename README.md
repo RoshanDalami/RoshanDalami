@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Dalami</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshandalami&label=Profile%20views&color=0e75b6&style=flat" alt="roshandalami" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshandalami" alt="roshandalami" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ro_shansunar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ro_shansunar?logo=twitter&style=for-the-badge" alt="https://twitter.com/ro_shansunar" /></a> </p>
 
