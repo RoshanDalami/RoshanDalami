@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ro_shansunar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ro_shansunar?logo=twitter&style=for-the-badge" alt="https://twitter.com/ro_shansunar" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJS**
 
