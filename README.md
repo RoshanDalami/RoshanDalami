@@ -7,7 +7,7 @@
 
 
 
-[![An image of @roshandalami's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=roshandalami)](https://holopin.io/@roshandalami)
+[![An image of @roshandalami's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshandalami)](https://holopin.io/@roshandalami)
 
 
 
